@@ -1,0 +1,7 @@
+/* App.css */
+h1 {
+    display: block; /* Ensure it is visible */
+    visibility: visible; /* Ensure it is not hidden */
+    color: black; /* Ensure text is visible against the background */
+  }
+  
